@@ -1,0 +1,19 @@
+=== Interface: Ethernet 3 ===
+=== Interface: Ethernet 3 ===
+=== Interface: Ethernet 3 ===
+=== Interface: Local Area Connection* 1 ===
+=== Interface: Local Area Connection* 1 ===
+=== Interface: Local Area Connection* 1 ===
+=== Interface: Local Area Connection* 2 ===
+=== Interface: Local Area Connection* 2 ===
+=== Interface: Local Area Connection* 2 ===
+=== Interface: Wi-Fi 2 ===
+=== Interface: Wi-Fi 2 ===
+=== Interface: Bluetooth Network Connection 2 ===
+=== Interface: Bluetooth Network Connection 2 ===
+=== Interface: Bluetooth Network Connection 2 ===
+=== Interface: Loopback Pseudo-Interface 1 ===
+=== Interface: Loopback Pseudo-Interface 1 ===
+Total Bytes Sent: 190.31MB
+Total Bytes Received: 1.87GB
+
